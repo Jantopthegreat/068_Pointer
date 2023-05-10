@@ -29,4 +29,6 @@ void siswa::setId(int pId) {
 }
 
 
-
+void orang::setNama(string pNama) {
+	nama = pNama;
+}
